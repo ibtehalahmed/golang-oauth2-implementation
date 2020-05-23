@@ -1,0 +1,11 @@
+{
+	"env": "local",
+	"port": "8000",
+	"dbHost": "localhost",
+	"dbName": "oauth2_dev",
+	"dbDriver": "postgres",
+	"dbUser": "oauth2",
+	"dbPassword": "pwd",
+	"dbPort": "5432",
+	"PG_URI": "postgres://oauth2:pwd@localhost:5432/oauth2_dev?sslmode=disable"
+}
